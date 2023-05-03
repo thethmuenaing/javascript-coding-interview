@@ -15,7 +15,7 @@ const Coding11 = () => {
 	// }
 
 	// second method of find numbers of vowels
-	const string = prompt("enter letter");
+	let string = prompt("enter letter");
 	const vowels = ["a", "e", "i", "o", "u"];
 
 	const countVowels = (str) => {
