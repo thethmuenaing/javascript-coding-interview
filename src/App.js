@@ -1,10 +1,10 @@
-import Coding11 from "./js_coding/Coding11";
+import Coding12 from "./js_coding/Coding12";
 
 function App() {
 	return (
 		<div className="App">
 			<div className="text-center">
-				<Coding11 />
+				<Coding12 />
 			</div>
 		</div>
 	);
