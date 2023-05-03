@@ -25,6 +25,9 @@ const Coding15 = () => {
 			<h1>How to merge two array and sort them in javascript</h1>
 			<p>merge = ပေါင်းစည်းပါ။</p>
 			<p>sort = စီရန်</p>
+			<p>
+				merge with concat (arr.concat(arr2)) and spread operator(...arr,...arr2)
+			</p>
 		</div>
 	);
 };
