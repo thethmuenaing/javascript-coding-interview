@@ -18,9 +18,9 @@ const Coding24 = () => {
 			<p>
 				The fibonacci sequence is the integer sequence where the first two terms
 				are 0 and 1. After that the next term is defined as the sum of the
-				previous two terms 0,,1,2,3,4
+				previous two terms 0,1,2,3,4.
 			</p>
-			<p>terms = အသုံးအနှုန်းများ</p>
+			<p>two terms = ဝေါဟာရနှစ်ခု</p>
 		</div>
 	);
 };
