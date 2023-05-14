@@ -19,11 +19,19 @@ const Coding30 = () => {
 		for (let x = i + 1; x < number.length; x++) {
 			// console.log("number i ", number[i]);
 			// console.log("number x ", number[x]);
+
+			// large to small
 			if (number[i] < number[x]) {
 				let temp = number[i];
 				number[i] = number[x];
 				number[x] = temp;
 			}
+			// // small to large
+			// if (number[i] > number[x]) {
+			// 	let temp = number[i];
+			// 	number[i] = number[x];
+			// 	number[x] = temp;
+			// }
 		}
 	}
 	// const sortNumber = number.sort((a, b) => b - a);
