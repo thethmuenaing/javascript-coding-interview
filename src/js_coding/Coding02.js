@@ -13,10 +13,11 @@ const Coding02 = () => {
 	const MinNumber = arrNumber1.reduce(function (pre, cur) {
 		return pre < cur ? pre : cur;
 	});
-	console.log("maxNumber ", MinNumber);
+	console.log("minNumber ", MinNumber);
 
 	return (
 		<div>
+			<h1>Coding02</h1>
 			<h1>How to find Max and Min value in a given Array in javascript?</h1>
 		</div>
 	);

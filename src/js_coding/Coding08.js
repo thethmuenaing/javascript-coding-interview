@@ -12,6 +12,7 @@ const Coding08 = () => {
 	console.log("sumOfNumber ", sumOfNumber(arrNumber));
 	return (
 		<div>
+			<h1>Coding08</h1>
 			<h1>How to find the sum of all elements in given array in javascript?</h1>
 		</div>
 	);

@@ -13,6 +13,7 @@ const Coding26 = () => {
 	console.log(`in ${string} occurrence of ${letter} = ${counter}`);
 	return (
 		<div>
+			<h1>Coding26</h1>
 			<h1>
 				How to Check the Number of Occurrence of a Character in a String in
 				Javascript

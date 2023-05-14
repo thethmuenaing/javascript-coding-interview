@@ -40,6 +40,7 @@ const Coding25 = () => {
 	}
 	return (
 		<div>
+			<h1>Coding25</h1>
 			<h1>
 				How to print star and number patterns Right Triangle, Pyramid and
 				Diamond shape in javascript?

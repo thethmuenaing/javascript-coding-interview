@@ -23,6 +23,7 @@ const Coding28 = () => {
 	}
 	return (
 		<div>
+			<h1>Coding28</h1>
 			<h1>Program to Check Armstrong Number in JavaScript</h1>
 
 			<div>

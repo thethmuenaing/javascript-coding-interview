@@ -10,6 +10,7 @@ const Coding27 = () => {
 	table(12);
 	return (
 		<div>
+			<h1>Coding27</h1>
 			<h1>
 				how to print the table of any user defined number using function in
 				javascript?

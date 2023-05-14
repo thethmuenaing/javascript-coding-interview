@@ -13,6 +13,7 @@ const Coding07 = () => {
 	console.log("odd ", oddNumbers);
 	return (
 		<div>
+			<h1>Coding07</h1>
 			<h1>How to find odd and even numbers in array in javascript</h1>
 		</div>
 	);

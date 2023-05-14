@@ -14,6 +14,7 @@ const Coding18 = () => {
 	console.log("compare two array ", isArrSame);
 	return (
 		<div>
+			<h1>Coding18</h1>
 			<h1>How to compare two arrays are Equal or Not in javascript</h1>
 			<p>indexOf method return -1 if element is not exist in array</p>
 			<p>

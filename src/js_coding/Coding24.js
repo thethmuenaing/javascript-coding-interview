@@ -13,6 +13,7 @@ const Coding24 = () => {
 	}
 	return (
 		<div>
+			<h1>Coding24</h1>
 			<h1>how to find fibonacci sequence in javascript</h1>
 			<p>fibonacci = ဖီဘိုနာချီ</p>
 			<p>

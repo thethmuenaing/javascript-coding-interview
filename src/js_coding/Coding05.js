@@ -24,6 +24,7 @@ const Coding05 = () => {
 	console.log("find ", findItems);
 	return (
 		<div>
+			<h1>Coding05</h1>
 			<h1>
 				What is difference Between Filter() and find() Method in javascript
 			</h1>

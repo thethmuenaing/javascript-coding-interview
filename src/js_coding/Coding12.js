@@ -10,6 +10,7 @@ const Coding12 = () => {
 	console.log("reverseString.. ", reverseString("reverse"));
 	return (
 		<div>
+			<h1>Coding12</h1>
 			<h1>How to reverse a string in javascript</h1>
 			<p>reverse = ပြောင်းပြန်</p>
 		</div>

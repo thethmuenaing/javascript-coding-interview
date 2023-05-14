@@ -13,6 +13,7 @@ const Coding16 = () => {
 	console.log(`factors of ${inputNumber}`, factorArr);
 	return (
 		<div>
+			<h1>Coding16</h1>
 			<h1>How to find factor of a given integer in javascript</h1>
 			<p>factor : e.g ; 12:1,2,3,4,6,12</p>
 		</div>

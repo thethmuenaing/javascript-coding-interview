@@ -32,6 +32,7 @@ const Coding11 = () => {
 
 	return (
 		<div>
+			<h1>Coding11</h1>
 			<h1>How to find vowels from string in javascript?</h1>
 			<p> vowels = သရများ</p>
 		</div>

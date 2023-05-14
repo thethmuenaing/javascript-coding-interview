@@ -13,6 +13,7 @@ const Coding29 = () => {
 	console.log(mapMethod, arrNum);
 	return (
 		<div>
+			<h1>Coding29</h1>
 			<h1>JS Output Interview Questions </h1>
 		</div>
 	);

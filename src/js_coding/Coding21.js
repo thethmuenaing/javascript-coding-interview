@@ -9,6 +9,7 @@ const Coding21 = () => {
 	console.log(`Fahrenheit to Celsius : ${inputNumber}°F = ${fahrenToCal}°C`);
 	return (
 		<div>
+			<h1>Coding21</h1>
 			<h1>
 				how to convert celsius to fahrenheit or fahrenheit to celsius in
 				javascript

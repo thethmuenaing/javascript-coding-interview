@@ -12,6 +12,7 @@ const Coding01 = () => {
 	console.log(dupli);
 	return (
 		<div>
+			<h1>Coding01</h1>
 			<h1>How To find duplicate elements in array in javascript</h1>
 			<p>duplicate = ထပ်နေသော</p>
 		</div>

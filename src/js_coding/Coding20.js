@@ -8,6 +8,7 @@ const Coding20 = () => {
 	console.log([...new Set(unionNumbers)]);
 	return (
 		<div>
+			<h1>Coding20</h1>
 			<h1>How to find union of two arrays / Set in javascript</h1>
 		</div>
 	);

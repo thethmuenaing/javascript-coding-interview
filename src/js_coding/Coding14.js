@@ -16,6 +16,7 @@ const Coding14 = () => {
 	console.log(`value of c is ${c} and value of d is ${d}`);
 	return (
 		<div>
+			<h1>Coding14</h1>
 			<h1>
 				How to swap two variables without using the third variable in javascript
 			</h1>

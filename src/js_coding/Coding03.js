@@ -10,6 +10,7 @@ const Coding03 = () => {
 	console.log("===", x === y);
 	return (
 		<div>
+			<h1>Coding03</h1>
 			<h1>What is difference between "==" and "===" operator</h1>
 		</div>
 	);

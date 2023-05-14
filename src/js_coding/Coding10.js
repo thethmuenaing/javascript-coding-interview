@@ -20,6 +20,7 @@ const Coding10 = () => {
 	}
 	return (
 		<div>
+			<h1>Coding10</h1>
 			<h1>How to find prime number in javascript</h1>
 			<p>Prime numbers are those which are divided by itself or 1 </p>
 		</div>

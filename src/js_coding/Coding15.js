@@ -22,6 +22,7 @@ const Coding15 = () => {
 	console.log("sorterArr2 ", sorterArr2);
 	return (
 		<div>
+			<h1>Coding15</h1>
 			<h1>How to merge two array and sort them in javascript</h1>
 			<p>merge = ပေါင်းစည်းပါ။</p>
 			<p>sort = စီရန်</p>

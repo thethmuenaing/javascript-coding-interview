@@ -13,6 +13,7 @@ const Coding09 = () => {
 	}
 	return (
 		<div>
+			<h1>Coding09</h1>
 			<h1>How to find factorial of a given number in javascript?</h1>
 			<p>
 				factorial: = the product of an integer and all the integers below it;

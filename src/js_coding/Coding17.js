@@ -18,6 +18,7 @@ const Coding17 = () => {
 	console.log(`${num1} ${operator} ${num2} = ${result}`);
 	return (
 		<div>
+			<h1>Coding17</h1>
 			<h1>How to make calculator in javascript</h1>
 		</div>
 	);

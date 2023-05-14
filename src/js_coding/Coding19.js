@@ -12,6 +12,7 @@ const Coding19 = () => {
 	console.log([...new Set(intersectionArr)]);
 	return (
 		<div>
+			<h1>Coding19</h1>
 			<h1>How to find intersection of two arrays in javascript</h1>
 		</div>
 	);

@@ -11,6 +11,7 @@ const Coding22 = () => {
 	console.log(`${inputValue}m = ${mileToKilometer}km`);
 	return (
 		<div>
+			<h1>Coding22</h1>
 			<h1>how to convert kilometers(km) into miles(m) in Javascript</h1>
 			<p>1 kilometer = 0.621371 mile</p>
 			<p>1 mile = 1.60934 kilometer</p>

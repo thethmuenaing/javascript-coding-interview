@@ -19,6 +19,7 @@ const Coding04 = () => {
 
 	return (
 		<div>
+			<h1>Coding04</h1>
 			<h1>
 				How to find Second Largest value, and remove First Largest value in
 				array?

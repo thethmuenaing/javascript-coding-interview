@@ -14,6 +14,7 @@ const Coding13 = () => {
 	console.log("palindrome", palindromeFind(inputStr));
 	return (
 		<div>
+			<h1>Coding13</h1>
 			<h1>How to find palindrome in javascript</h1>
 			<p>
 				a word, verse, or sentence(such as "madam") or a number (such as "1881")

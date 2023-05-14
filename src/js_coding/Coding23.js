@@ -12,6 +12,7 @@ const Coding23 = () => {
 	console.log("firstLetercapital ", firstLetercapital(inputString));
 	return (
 		<div>
+			<h1>Coding23</h1>
 			<h1>
 				How to convert first letter of a string in to uppercase in javascript
 			</h1>
