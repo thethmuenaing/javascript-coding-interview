@@ -5,7 +5,7 @@ const Coding10 = () => {
 	if (inputNumber === 1) {
 		console.log(`${inputNumber} is not prime neither composite`);
 	} else if (inputNumber < 1) {
-		console.log(` prime number of ${inputNumber} is not possible `);
+		console.log(`prime number of ${inputNumber} is not possible `);
 	} else {
 		for (let i = 2; i < inputNumber; i++) {
 			var result;

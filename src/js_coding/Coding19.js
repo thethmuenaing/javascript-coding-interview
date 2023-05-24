@@ -7,7 +7,7 @@ const Coding19 = () => {
 	const intersectionArr = arr1.filter((curEle) => {
 		return arr2.includes(curEle);
 	});
-	// console.log(intersectionArr);
+	console.log(intersectionArr);
 
 	console.log([...new Set(intersectionArr)]);
 	return (

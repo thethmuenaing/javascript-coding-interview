@@ -37,6 +37,16 @@ const Coding30 = () => {
 	// const sortNumber = number.sort((a, b) => b - a);
 
 	console.log("sortNumber ", number);
+
+	const students = [
+		{ name: "Thet", grade: 15 },
+		{ name: "Hmue", grade: 15 },
+		{ name: "Naing", grade: 13 },
+		{ name: "Htet", grade: 14 },
+	];
+
+	const sortName = students.sort((a, b) => a.name.localeCompare(b.name));
+	console.log("sortName ", sortName);
 	return (
 		<div>
 			<h1>Coding30</h1>

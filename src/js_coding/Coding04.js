@@ -24,6 +24,7 @@ const Coding04 = () => {
 				How to find Second Largest value, and remove First Largest value in
 				array?
 			</h1>
+			<p>The Math.max() method returns the number with the highest value.</p>
 		</div>
 	);
 };

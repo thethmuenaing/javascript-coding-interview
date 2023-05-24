@@ -6,6 +6,8 @@ const Coding29 = () => {
 		return res + 3;
 	});
 	const foreachMethod = arrNum.forEach((res, i) => {
+		console.log("res ", res);
+		console.log("i ", i);
 		arrNum[i] = res + 7;
 	});
 

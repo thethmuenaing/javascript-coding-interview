@@ -4,6 +4,7 @@ const Coding23 = () => {
 	const inputString = prompt("Please string to capitalize");
 	const firstLetercapital = (str) => {
 		let newStr = str.split(" ");
+		console.log(newStr);
 		newStr = newStr.map((str) => {
 			return str.charAt(0).toUpperCase() + str.slice(1);
 		});

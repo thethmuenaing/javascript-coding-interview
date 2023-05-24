@@ -8,6 +8,8 @@ const Coding18 = () => {
 		arr1.length === arr2.length &&
 		arr1.every((curEle) => {
 			if (arr2.indexOf(curEle) > -1) {
+				console.log("arr2.indexOf(curEle)", arr2.indexOf(curEle));
+				console.log("curEle", curEle);
 				return (curEle = [arr2.indexOf(curEle)]);
 			}
 		});

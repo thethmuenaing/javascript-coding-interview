@@ -3,7 +3,9 @@ import React from "react";
 const Coding12 = () => {
 	const reverseString = (str) => {
 		const strToArr = str.split("");
+		console.log("strToArr ", strToArr);
 		const arrReverse = strToArr.reverse();
+		console.log("arrReverse ", arrReverse);
 		const arrToStr = arrReverse.join("");
 		return arrToStr;
 	};

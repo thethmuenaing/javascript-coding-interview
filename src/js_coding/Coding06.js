@@ -8,6 +8,8 @@ const Coding06 = () => {
 		const maxValue = Math.max(...arr);
 
 		for (let i = minValue; i < maxValue; i++) {
+			console.log("i ", i);
+			console.log(arr.indexOf(i));
 			if (arr.indexOf(i) < 0) {
 				missArray.push(i);
 			}

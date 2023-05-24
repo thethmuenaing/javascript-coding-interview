@@ -1,15 +1,17 @@
 import React from "react";
 
 const Coding01 = () => {
-	const arrNumbers = [1, 1, 2, 2, 3, 4, 4, 5, 6, 6, 7];
-	const duplicateNumbers = arrNumbers.filter(
-		(ele, index, arr) => arr.indexOf(ele) !== index
-	);
+	const arrNumbers = [1, 2, 2, 3, 4, 4, 5, 6, 6, 7, 1];
+	const duplicateNumbers = arrNumbers.filter((ele, index, arr) => {
+		console.log(ele, index, arr);
+		console.log(arr.indexOf(ele));
+		return arr.indexOf(ele) !== index;
+	});
 	console.log("duplicateNumbers", duplicateNumbers);
 
-	const arr = [1, 1, 2, 2, 3, 4, 4, 5, 6, 6, 7];
-	const dupli = arr.filter((ele, index, arr) => console.log(ele, index, arr));
-	console.log(dupli);
+	// const arr = [1, 1, 2, 2, 3, 4, 4, 5, 6, 6, 7];
+	// const dupli = arr.filter((ele, index, arr) => console.log(ele, index, arr));
+	// console.log(dupli);
 	return (
 		<div>
 			<h1>Coding01</h1>
